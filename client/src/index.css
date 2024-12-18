@@ -54,7 +54,7 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: #a8a8a8;
   cursor: pointer;
   transition: border-color 0.25s;
 }
@@ -181,8 +181,10 @@ tbody tr:nth-child(odd) {
 
 
 .form {
-  width: 60%;
-  height: 80%;
+  /* width: 60%; */
+  /* height: 80%; */
+  margin: 40px;
+  padding: 40px;
   background-color: #b864c4;
   margin: auto;
   display: flex;
@@ -206,7 +208,7 @@ tbody tr:nth-child(odd) {
 }
 
 .form button {
-  margin-top: 2.5%;
+  margin-top: 10px;
 }
 
 .form textarea {
