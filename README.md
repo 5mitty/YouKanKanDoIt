@@ -4,8 +4,8 @@ video[demo]: https://youtu.be/anWdzzY1ufY
 
 ## Screenshots
 
-![Login Page](Assets/FiveDaysAheadScreenShot1.png)
-![KanKan Board](Assets/FiveDaysAheadScreenShot2.png)
+![No JWT in LocalStorage Pre-Login](<Assets/Pre-Login No LS JWT.png>)
+![JWT in LocalStorage After Login](<Assets/Login LocalStorage JWT.png>)
 
 ## Description
 
@@ -31,7 +31,12 @@ npm run render-build, npm run seed, npm run start:dev
 
 ## Usage
 
-When you reach the login, securely access your kankan board for managing your work tasks
+When you reach the login, use one of these logins:
+username: RadiantComet password: password
+username: SunnyScribe password: password
+username: JollyGuru password:password
+
+after authenticating you will be presented with your kankan board!
 
 ## Contribution
 
