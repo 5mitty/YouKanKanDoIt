@@ -1,6 +1,6 @@
 ## <YOUKANKANDOIT>
 
-video[demo]: https://youtu.be/anWdzzY1ufY
+video[demo]: https://youtu.be/KGm2EbjZM8E
 
 ## Screenshots
 
@@ -34,7 +34,7 @@ npm run render-build, npm run seed, npm run start:dev
 When you reach the login, use one of these logins:
 username: RadiantComet password: password
 username: SunnyScribe password: password
-username: JollyGuru password:password
+username: JollyGuru password: password
 
 after authenticating you will be presented with your kankan board!
 
